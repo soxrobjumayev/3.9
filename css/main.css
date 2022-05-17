@@ -1,0 +1,52 @@
+.body{
+    background-color: rgba(56, 197, 197, 0.573);
+}
+
+
+.form{
+    display: block;
+    width: 600px;
+    height: 600px;
+    margin-left: 500px;
+    margin-top: 200px;
+    
+    
+}
+.input_login{
+    display: block;
+    width: 400px;
+    height: 25px;
+    margin: 15px;
+    border-radius: 10px;
+}
+.input_parol{
+    display: block;
+    width: 400px;
+    height: 25px;
+    margin: 15px;
+    border-radius: 10px;
+
+}
+
+.submit{
+    display: block;
+    width: 150px;
+    height: 40px;
+    margin: 15px;
+    border-radius: 25px;
+    background-color: aquamarine;
+
+}
+
+
+
+
+
+
+
+.div{
+    width: 100%;
+   background-color: rgb(255, 127, 127);
+   border-radius: 5px;
+  
+}
